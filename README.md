@@ -53,7 +53,7 @@ let startOver = document.getElementById('fourth-next-line');`
 Project is:_finished_
 
 ## Inspiration
-Project created for Codecademy's Full Stack Engineer 
+Project created for Codecademy's Full Stack Engineer pathway    
 
 ## Contact
 Created by TarrMarr(https://www.tarrynmarr.me) - feel free to contact me!
